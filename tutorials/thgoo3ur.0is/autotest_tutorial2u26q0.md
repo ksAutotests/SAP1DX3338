@@ -1,8 +1,0 @@
----
-title: autotestBL02M5
-description: autotest255xc2_12/29/2019 1:35:27 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
-time: 609
-author_profile: https://github.com/ksAutotests
-author_name: ksAutotests
----
